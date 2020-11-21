@@ -4,5 +4,7 @@ class Demoforversion
 //basic comment 2
 
 
+	//new comment for new ver1.2
+
 }
 
